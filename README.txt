@@ -1,1 +1,1 @@
-These are my sublime text 2 settings and color scheme.
+This is my sublime text 2 settings file and color scheme file.
